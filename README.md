@@ -18,7 +18,4 @@
 
 тест 3
 
-
-продолжение теста 3
-
-![image](https://user-images.githubusercontent.com/113354368/200381343-6784ea5a-5de1-43ab-b51a-ff3a5ad13096.png)
+![image](https://user-images.githubusercontent.com/113354368/200382233-6689894b-efd3-42cd-8c25-5601a86c71de.png)
